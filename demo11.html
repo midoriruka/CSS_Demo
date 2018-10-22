@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>纵向菜单</title>
+    <style>
+        *{
+            margin:0;
+            padding:0;
+        }
+        nav{
+            width:150px;
+            margin:50px;
+        }
+        nav ul{
+            border:1px solid #ffbd75;
+            border-radius: 3px;
+            padding:5px 10px 3px;
+        }
+        nav li{
+            list-style-type:none;
+        }
+        nav li + li{
+            border-top:1px solid #f00;
+        }
+        nav a{
+            display:block;
+            padding:3px 10px;
+            text-decoration: none;
+            font:20px Exo, helvetica, arial, sans-serif;
+            font-weight: 400;
+            color:#000;
+            /*background:#ffed53;*/
+        }
+        nav a:hover{
+            color:#069;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#">马里奥</a></li>
+            <li><a href="#">大力水手</a></li>
+            <li><a href="#">皮卡丘</a></li>
+            <li><a href="#">摇滚</a></li>
+        </ul>
+    </nav>
+</body>
+</html>
