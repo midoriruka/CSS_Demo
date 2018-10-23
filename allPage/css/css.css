@@ -1,0 +1,75 @@
+*{
+    margin:0;
+    padding:0
+}
+body {
+    font-family:helvetica, arial, sans-serif;
+    background:#efefef;
+    margin:0;
+}
+#wrapper{
+    width:980px;
+    margin:0 auto 20px;
+}
+header {
+    position:relative; /*为页面标题和搜索表单提供定位上下文*/
+    height:70px; /*固定高度，包围绝对定位元素*/
+    margin:10px 0;
+    background:#fff;
+    border-radius:20px 0 20px 0; /*顺序：左上、右上、右下、左下*/
+    box-shadow:0 12px 8px -9px #555; /*负扩展值把阴影定位到盒子内部*/
+    padding:1px; /*防止子元素外边距叠加*/
+}
+header section#title {
+    position:absolute;
+    width:300px; /*宽到足以不让文本折行*/
+    height:65px; /*高到足以容纳两行文本*/
+    left:0; /*左上角定位*/
+    top:0;
+    border:1px solid;
+}
+header h1 {
+    padding:9px 12px 0;
+    font-family:'Lato', helvetica, sans-serif;
+    font-weight:900;
+    font-size:2.2em;
+    line-height:1;
+    letter-spacing:-.025em;
+    color:#4eb8ea;
+    border:1px solid;
+}
+header h2 {
+    padding:0 12px;
+    font-family:"Source Sans Pro", helvetica, sans-serif;
+    font-weight:400; /*设定下载字体的粗细*/
+    font-size:.9em;
+    line-height:1;
+    letter-spacing:-.025em;
+    color:#333;
+    border:1px solid;
+}
+form.search {
+    position:absolute;
+    width:150px; /*宽到足以容纳扩展后的搜索框*/
+    top:23px;
+    right:20px; /*相对于页眉右上角定位*/
+}
+.search input {
+    float:right; width:70px;
+    padding:2px 0 3px 5px;
+    border-radius:10px 0px 10px 0px;
+    font-family:"Source Sans Pro", helvetica, sans-serif;
+    font-weight: 400;
+    font-size:1em;
+    color:#888;
+    outline:none; /*去掉默认的轮廓线*/
+    -webkit-transition:1s width; /*搜索框过渡动画，别忘了带其他厂商前缀的属性*/
+}
+.search input:focus {
+    width:140px;
+}/*在获得焦点时扩展到这么宽*/
+.search label{display:none;}
+form.search input {background-color:#fff;}
+form.search input::-webkit-input-placeholder {color:#ccc;}
+
+
