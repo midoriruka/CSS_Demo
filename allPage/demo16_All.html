@@ -43,6 +43,12 @@
                         </ul>
                     </li>
                     <li class="choice5"><a href="#">tree</a>
+                        <ul>
+                            <li><a href="#">flower</a></li>
+                            <li><a href="#">flower</a></li>
+                            <li><a href="#">flower</a></li>
+                            <li><a href="#">flower</a></li>
+                        </ul>
                     </li>
                 </ul>
             </nav>
@@ -52,29 +58,116 @@
             </form>
         </header>
         <section id="feature_area">
-            <article class="blog_leadoff">
+            <article id="blog_leadoff">
+                <div class="inner">
+                    <h4>September 7, 2012</h4>
+                    <a href="#"><h3>Managing CSS Classes with jQuery</h3></a>
+                    <img src="img/qq.png" alt="Charles Wyke-Smithphoto"/>
+                    <p>Sintus at neque in magna...开发者可以在平台中定制区域面、建筑物、水系、天空、道路、标注、行政边界共7大类44种地图元素，随心所欲
+                        的设计心仪的地图样式，设计并发布完成的自定义地图可以在JS API、iOS地图SDK、Android地图SDK中使用，地图从此不再千篇一律。
+                        高德开放平台提供2D，3D，卫星多种地图形式供开发者选择，无论基于哪种平台，都可以通过高德开放平台提供的API和SDK轻松的完成地图的构建工作。
+                        同时我们还提供强大的地图再开发能力，全面的地图数据支持，离线在线两种使用方式，多种地图交互模式，满足各个场景下对地图的需求。
+                        此时，应该在article 元素内部添加一个内部div（前面HTML 标记中加粗了），以
+                        便围绕内容设定圆角边框。之后，就是article 区域的样式。</p>
+                </div>
             </article>
             <aside>
-                <form action="" class="singin"></form>
-                <nav></nav>
+                <form action="" class="signin" autocomplete="off">
+                    <fieldset>
+                        <!-- 控件组的标题 -->
+                        <legend><span>Sign In for Code and Updates</span></legend>
+                        <section> <!-- 用于为控件、标注和说明添加样式的外包装 -->
+                            <!-- 与控件ID 同名的for 属性将标注与控件关联起来 -->
+                            <label for="email">Email</label>
+                            <!-- type 属性的text 值表明这是文本框 -->
+                            <input type="text" id="email" name="email" />
+                        </section>
+                        <section>
+                            <label for="password">Password</label>
+                            <input type="password" id="password" name="password"
+                                   maxlength="20" /> <!-- 密码框中的字符显示为掩码 -->
+                            <p class="direction">Wrong user name or password</p>
+                        </section>
+                        <section> <!-- 提交按钮 -->
+                            <input type="submit" value="Sign In" />
+                            <p class="signup">Not signed up? <a href="#">Register now!
+                            </a></p>
+                        </section>
+                    </fieldset>
+                </form>
+                <nav>
+                    <h3>Recent Articles</h3>
+                    <ul>
+                        <li><a href="#">Z-index&mdash;Layers of Confusion</a></li>
+                        <li><a href="#">Box-Image Techniques</a></li>
+                        <li><a href="#">Shadow FX with CSS3</a></li>
+                    </ul>
+                </nav>
             </aside>
         </section>
         <section id="book_area">
-            <article>
-                <div class="inner"></div>
+            <article class="left">
+                <div class="inner">
+                    <h3>Eite 瑛太</h3><!-- 要旋转的文字 -->
+                    <img src="img/pp.png" alt="Stylin' with CSS cover" />
+                    <aside> <!-- 弹出层 -->
+                        <ol>
+                            <li><a href="#">Download the Code</a></li>
+                            <li><a href="#">Table of Contents</a></li>
+                            <li><a href="#">Buy this Book</a></li>
+                        </ol>
+                    </aside>
+                </div>
             </article>
-            <article>
-                <div class="inner"></div>
+            <article class="left">
+                <div class="inner">
+                    <h3>Eite</h3><!-- 要旋转的文字 -->
+                    <img src="img/pp.png" alt="Stylin' with CSS cover" />
+                    <aside> <!-- 弹出层 -->
+                        <ol>
+                            <li><a href="#">Download the Code</a></li>
+                            <li><a href="#">Table of Contents</a></li>
+                            <li><a href="#">Buy this Book</a></li>
+                        </ol>
+                    </aside>
+                </div>
             </article>
-            <article>
-                <div class="inner"></div>
+            <article class="right">
+                <div class="inner">
+                    <h3>Eite</h3><!-- 要旋转的文字 -->
+                    <img src="img/pp.png" alt="Stylin' with CSS cover" />
+                    <aside> <!-- 弹出层 -->
+                        <ol>
+                            <li><a href="#">Download the Code</a></li>
+                            <li><a href="#">Table of Contents</a></li>
+                            <li><a href="#">Buy this Book</a></li>
+                        </ol>
+                    </aside>
+                </div>
             </article>
-            <article>
-                <div class="inner"></div>
+            <article class="right">
+                <div class="inner">
+                    <h3>Eite</h3><!-- 要旋转的文字 -->
+                    <img src="img/pp.png" alt="Stylin' with CSS cover" />
+                    <aside> <!-- 弹出层 -->
+                        <ol>
+                            <li><a href="#">Download the Code</a></li>
+                            <li><a href="#">Table of Contents</a></li>
+                            <li><a href="#">Buy this Book</a></li>
+                        </ol>
+                    </aside>
+                </div>
             </article>
         </section>
         <footer>
-
+            <p>A CSS template from <a href="http://www.stylinwithcss.com"><em>Stylin'
+                with CSS, Third Edition</em></a> by Charles Wyke-Smith</p>
+            <nav>
+                <ul>
+                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="#">Contact Charles</a></li>
+                </ul>
+            </nav>
         </footer>
     </div>
 </body>
