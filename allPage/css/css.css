@@ -344,7 +344,7 @@ section#book_area { /*与布局同宽*/
     text-align:left;
 }
 /*较窄的封面需要不同的偏移量*/
-#book_area article.right:last-child h3 { left:85%; }
+/*#book_area article.right:last-child h3 { left:85%; }*/
 #book_area article img { box-shadow: 0 12px 8px -9px #555; }/*封面阴影*/
 #book_area article aside { /*弹出层共享样式开始*/
     display:none; /*隐藏弹出层*/
