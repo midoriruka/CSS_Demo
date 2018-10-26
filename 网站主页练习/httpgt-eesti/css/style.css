@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+#wrapper{
+    width:70%;
+    margin:0 auto;
+}
+nav{
+    margin:40px auto;
+    height:40px;
+    color:aliceblue;
+    text-align:center; /*在容器内居中菜单*/
+    font-size:30px;
+}
+nav ul{
+    display:inline-block;
+    width: 100%;
+}
+nav li{
+    width:20%;
+    float:left;
+    border-top: 1px solid aliceblue;
+    border-bottom: 1px solid aliceblue;
+}
+nav li a{
+    font-family: 'Kalam',cursive;
+    margin: 5px 30px;
+    text-decoration:none; /*去掉链接的下划线*/
+    color:#fff;
+}
+#story_1{
+    overflow: hidden;
+    margin:10px auto;
+}
+#story_1 video{
+    float:left;
+    width:50%;
+}
+#word_1 p{
+    color:red;
+}
+
