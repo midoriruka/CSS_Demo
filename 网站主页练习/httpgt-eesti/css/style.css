@@ -28,15 +28,82 @@ nav li a{
     text-decoration:none; /*去掉链接的下划线*/
     color:#fff;
 }
-#story_1{
+section{
     overflow: hidden;
     margin:10px auto;
 }
-#story_1 video{
+video,p{
     float:left;
     width:50%;
 }
-#word_1 p{
-    color:red;
+#h11{
+    color:#ffffff;
+    font-size:120px;
+    text-align: center;
 }
+h1{
+    color: #ff7800;
+    font-size: 60px;
+    text-align: left;
+    letter-spacing: 5px;
+}
+h3{
+    color:#ff0000;
+    font-size:50px;
+    text-align: center;
+}
+p{
+    color:#ffffff;
+    font-size:25px;
+    margin-top: 60px;
+    font-family: 'GT-Eesti-Text-ULight',cursive;
+    text-align: left;
+}
+span{
+    color:#ffffff;
+    font-size:60px;
+    font-weight: 900;
+}
+.crew_1{color:purple;}
+.crew_2{color:blue;}
+.crew_3{color:green;}
+.crew_4{color:yellow;}
+.crew_5{color:orange;}
+.crew_6{color:red;}
+
+article{
+    margin-top: 20px;
+    float:left;
+    width:20%;
+}
+img{
+    height:150px;
+    border-radius: 50px;
+}
+img:hover{
+    animation:circle 0.5s infinite linear;
+    animation-iteration-count:1;
+    -webkit-animation:circle 0.5s infinite linear;
+    -webkit-animation-iteration-count:1;
+}
+@-webkit-keyframes circle{
+    0%{ transform:rotate(0deg); }
+    100%{ transform:rotate(360deg); }
+}
+h4{
+    color:#ffffff;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    z-index: 2;
+}
+
+
+
+
+
+
+
+
+
 

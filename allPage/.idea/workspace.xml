@@ -2,43 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3214bce6-e746-4c2e-8b07-6c430889b43d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/allPage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../网站主页练习/httpgt-eesti/.idea/httpgt-eesti.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../网站主页练习/httpgt-eesti/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../网站主页练习/httpgt-eesti/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../网站主页练习/httpgt-eesti/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../网站主页练习/httpgt-eesti/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../网站主页练习/httpgt-eesti/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../网站主页练习/httpgt-eesti/img/story_04.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../网站主页练习/httpgt-eesti/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../网站主页练习/httpgt-eesti/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/demo1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo10.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/demo10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo11.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/demo11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo12.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/demo12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo13.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/demo13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo14.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/demo14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo15.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/demo15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/demo2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/demo3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/demo4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/demo5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/demo6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/demo7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/demo8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo9.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/demo9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网站主页练习/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../网站主页练习/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网站主页练习/httpgt-eesti/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../网站主页练习/httpgt-eesti/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网站主页练习/httpgt-eesti/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../网站主页练习/httpgt-eesti/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,14 +37,46 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1483736550">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="css.css" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/css.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="144" column="21" lean-forward="true" selection-start-line="144" selection-start-column="21" selection-end-line="144" selection-end-column="21" />
+            <state relative-caret-position="-3042">
+              <caret line="363" column="52" selection-start-line="363" selection-start-column="52" selection-end-line="363" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo16_All.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="121" column="28" lean-forward="true" selection-start-line="121" selection-start-column="28" selection-end-line="121" selection-end-column="28" />
+              <folding>
+                <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ol#0;n#aside#0;n#div#0;n#article#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,13 +104,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="380" />
-    <option name="y" value="47" />
-    <option name="width" value="1400" />
+    <option name="x" value="379" />
+    <option name="y" value="46" />
+    <option name="width" value="1401" />
     <option name="height" value="846" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -165,33 +165,34 @@
       <workItem from="1540478480174" duration="394000" />
       <workItem from="1540539308754" duration="950000" />
       <workItem from="1540541597698" duration="2419000" />
+      <workItem from="1540624149556" duration="777000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3763000" />
+    <option name="totallyTimeSpent" value="4540000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24920969" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24861" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,22 +204,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/css.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2697">
-          <caret line="93" column="1" lean-forward="true" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
+        <state relative-caret-position="-3042">
+          <caret line="363" column="52" selection-start-line="363" selection-start-column="52" selection-end-line="363" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo16_All.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/css.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="144" column="21" lean-forward="true" selection-start-line="144" selection-start-column="21" selection-end-line="144" selection-end-column="21" />
+        <state relative-caret-position="376">
+          <caret line="121" column="28" lean-forward="true" selection-start-line="121" selection-start-column="28" selection-end-line="121" selection-end-column="28" />
+          <folding>
+            <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ol#0;n#aside#0;n#div#0;n#article#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
